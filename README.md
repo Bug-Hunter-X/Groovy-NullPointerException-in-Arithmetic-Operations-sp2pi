@@ -1,0 +1,1 @@
+This repository demonstrates a common Groovy pitfall: unexpected `NullPointerExceptions` when performing arithmetic operations with null values. The `bug.groovy` file shows the problem, while `bugSolution.groovy` provides a solution using Groovy's safe navigation operator.
